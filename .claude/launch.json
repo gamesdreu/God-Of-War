@@ -1,0 +1,11 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "furia",
+      "runtimeExecutable": "node",
+      "runtimeArgs": ["serve.mjs", "dist", "8093"],
+      "port": 8093
+    }
+  ]
+}

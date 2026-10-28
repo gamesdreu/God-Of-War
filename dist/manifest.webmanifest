@@ -1,0 +1,19 @@
+{
+  "name": "Furia de Esparta",
+  "short_name": "Furia",
+  "lang": "es",
+  "start_url": "./",
+  "scope": "./",
+  "display": "fullscreen",
+  "orientation": "any",
+  "background_color": "#0c0706",
+  "theme_color": "#0c0706",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
